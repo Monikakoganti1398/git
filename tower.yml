@@ -1,0 +1,9 @@
+---
+ - hosts: all
+   become: true
+   tasks:
+     - name: git
+      yum:
+         name: git
+         service: installed
+      
