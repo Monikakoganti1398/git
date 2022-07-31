@@ -6,9 +6,9 @@
          port: 587
          secure: try
          from: awsdevops199@gmail.com
-         to: srikar0610@gmail.com, awsdevops199@gmail.com
+         to: srikar0610@gmail.com, awsdevops199@gmail.com, kogantimonika98@gmail.com
          subject: mail notification
-         body: test
+         body: test notification through jenkins 
          headers:
            - Reply-To=
          username: awsdevops199@gmail.com
