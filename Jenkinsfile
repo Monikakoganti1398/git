@@ -1,1 +1,1 @@
-jenkinsfile for multibranch pipeline
+jenkinsfile for multibranch pipeline checking for different branches
